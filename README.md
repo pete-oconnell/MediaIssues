@@ -1,6 +1,6 @@
 # Media Issues Tracker
 
-This repo is to track the issues for a private repository. If you have found a bug or would like to raise an enhancement please raise it via the issues section.
+This repo is to track the issues for a private repository. If you have found a bug or would like to raise an enhancement please raise it via the issues section - https://github.com/pete-oconnell/MediaIssues/issues.
 
 Latest Release
 ==========
